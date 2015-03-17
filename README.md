@@ -6,7 +6,7 @@ Overview
 
 Python dependencies:
 ```
-shape-learning
+shape_learning
 ```
 
 Required libraries:
@@ -14,4 +14,7 @@ Required libraries:
 AndroidPlot Rosjava
 ```
 
+Installation
+============
 
+In order to be able to receive the data properly, it is necessary to execute the file `graph_values_publisher.py` in the `shape_learning` package. It basically processes all log files and sends the information of each shape
