@@ -3,4 +3,5 @@ Android Ros application that shows the current status of the child learning prog
 DEPENDENCIES:
 
 AndroidPlot
+
 rosjava

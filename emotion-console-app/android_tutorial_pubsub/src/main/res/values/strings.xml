@@ -1,0 +1,38 @@
+<resources>
+    <string name="title_activity_drawer">Drawer</string>
+
+    <string name="A">a</string>
+    <string name="B">b</string>
+    <string name="C">c</string>
+    <string name="D">d</string>
+    <string name="E">e</string>
+    <string name="F">f</string>
+    <string name="G">g</string>
+    <string name="H">h</string>
+    <string name="I">i</string>
+    <string name="J">j</string>
+    <string name="K">k</string>
+    <string name="L">l</string>
+    <string name="M">m</string>
+    <string name="N">n</string>
+    <string name="O">o</string>
+    <string name="P">p</string>
+    <string name="Q">q</string>
+    <string name="R">r</string>
+    <string name="S">s</string>
+    <string name="T">t</string>
+    <string name="U">u</string>
+    <string name="V">v</string>
+    <string name="W">w</string>
+    <string name="X">x</string>
+    <string name="Y">y</string>
+    <string name="Z">z</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>
