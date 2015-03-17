@@ -3,6 +3,6 @@ Android Ros application that shows the current status of the child learning prog
 
 # Dependencies:
 
-AndroidPlot
+AndroidPlot library
 
 Rosjava
