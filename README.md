@@ -10,8 +10,8 @@ shape-learning
 ```
 
 Required libraries:
+```
+AndroidPlot Rosjava
+```
 
-AndroidPlot library
-
-Rosjava
 
